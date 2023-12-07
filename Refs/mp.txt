@@ -1,0 +1,98 @@
+[Term]
+id: MP:0004738
+Score: 3
+name: abnormal auditory brainstem response
+def: "anomaly in the electrical activity generated in the ascending auditory system in response to short tone bursts; may be used to evaluate sensorineural hearing function; measurements may include the amplitude (the number of neurons firing), latency (the speed of transmission), interpeak latency (the time between peaks), interaural latency (the difference in wave V latency between ears) and threshold" [MGI:anna, MGI:smb]
+subset: IMPC
+subset: Sanger_Terms
+synonym: "abnormal ABRs" EXACT []
+synonym: "abnormal BAEP(s)" EXACT []
+synonym: "abnormal brainstem auditory brainstem response(s)" EXACT []
+synonym: "abnormal brainstem auditory evoked potential" EXACT []
+synonym: "abnormal brainstem evoked responses" EXACT []
+is_a: MP:0006335 ! abnormal hearing electrophysiology
+
+[Term]
+id: MP:0002638
+Score: 4
+name: abnormal pupillary reflex
+def: "alterations or failure of the pupil to change in diameter as a reflex response to any stimulus" [ISBN:0-683-40008-8, MGI:cml]
+is_a: MP:0001961 ! abnormal reflex
+is_a: MP:0005253 ! abnormal eye physiology
+
+[Term]
+id: MP:0000376
+Score: 7
+name: folliculitis
+def: "inflammatory reaction in hair follicles" [ISBN:0-683-40008-8, PMID:8941642]
+is_a: MP:0000377 ! abnormal hair follicle morphology
+is_a: MP:0001846 ! increased inflammatory response
+
+[Term]
+id: MP:0003449
+Score: 5
+name: abnormal intestinal goblet cell morphology
+def: "any structural anomaly of the glandular simple columnar epithelial cell found in the mucosal lining of the small and large intestine, whose primary function is to secrete gel-forming mucins, the major components of mucus; the goblet cell is a highly polarized unicellular exocrine gland with the nucleus and other organelles concentrated at the base of the cell; the remainder of the cell's cytoplasm is occupied by membrane-bound secretory granules containing mucin; the goblet shape is due to the mucus laden granules in the apical part expanding, causing that part of the cell to balloon; the apical plasma membrane projects microvilli to give an increased surface area for secretion" [CL:1000317, http://en.wikipedia.org/wiki/Goblet_cell, MGI:anna]
+synonym: "abnormal intestinal goblet cells" BROAD []
+is_a: MP:0000358 ! abnormal cell morphology
+is_a: MP:0000511 ! abnormal intestinal mucosa morphology
+
+[Term]
+id: MP:0000410
+Score: 10
+name: waved hair
+def: "hair or fur having undulations or a sinusoidal shape" [PMID:9573048]
+subset: IMPC
+subset: Sanger_Terms
+synonym: "curly hair" EXACT []
+synonym: "waved fur" EXACT []
+synonym: "wavy hair" EXACT []
+is_a: MP:0001510 ! abnormal coat appearance
+
+[Term]
+id: MP:0000923
+Score: 3
+name: abnormal roof plate morphology
+def: "any structural anomaly of the single row of specialized glial cells that occupies the dorsal midline of the developing neural tube along the entire anterior-posterior axis; the roof plate serves as a critical embryonic signaling center for the organization of dorsal neuronal cell types, and acts as a barrier preventing axons and cells migrating across the dorsal midline" [MGI:anna]
+synonym: "roof plate abnormalities" BROAD []
+synonym: "roof plate dysplasia" EXACT []
+is_a: MP:0002151 ! abnormal neural tube morphology
+
+[Term]
+id: MP:0001713
+Score: 2
+name: decreased trophoblast giant cell number
+def: "fewer than normal number of cells of the extraembryonic cell layer that contributes to the placenta" [ISBN:0-683-40008-8, MGI:csmith]
+synonym: "reduced trophoblast giant cell number" EXACT []
+is_a: MP:0005033 ! abnormal trophoblast giant cell morphology
+
+[Term]
+id: MP:0002276
+Score: 4    
+name: abnormal lung interstitium morphology
+def: "any structural anomaly of the connective tissue located between the respiratory (airway and alveolar) epithelium, the capillary endothelium and pleural mesothelium; it contains basement membrane composed of collagen, elastin, proteoglycans, and fibronectin; it functions in the mechanical behavior of the lung, and forms a barrier to regulate the flow of plasma constituents from the capillaries to the airway and alveolar spaces" [ISBN:0-683-40008-8, MGI:anna, PMID:14635660]
+synonym: "abnormal pulmonary interstitium morphology" EXACT []
+synonym: "lung interstitium dysplasia" EXACT []
+is_a: MP:0001175 ! abnormal lung morphology
+
+[Term]
+id: MP:0001191
+Score: 6
+name: abnormal skin condition
+def: "any anomaly in the state or quality of the skin" [MGI:cwg]
+subset: Europhenome_Terms
+subset: IMPC
+subset: Sanger_Terms
+is_a: MP:0002060 ! abnormal skin morphology
+
+[Term]
+id: MP:0000130
+Score: 4
+name: abnormal trabecular bone morphology
+def: "any structural anomaly of bone that has a lattice-like or spongy structure; it is highly vascular and contains intercommunicating spaces filled with bone marrow" [ISBN:0-683-40008-8, MGI:csmith]
+synonym: "abnormal cancellous bone morphology" EXACT []
+synonym: "abnormal spongy bone morphology" EXACT []
+synonym: "abnormal spongy spongiosa morphology" EXACT []
+synonym: "abnormal spongy substance morphology" EXACT []
+synonym: "abnormal substantia trabecularis morphology" EXACT []
+is_a: MP:0003795 ! abnormal bone structure
