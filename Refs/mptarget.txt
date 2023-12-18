@@ -1,0 +1,30 @@
+[Term]
+id: MP:0000088
+name: short mandible
+def: "reduced length of the lower bony framework of the mouth where the inferior teeth are held" [MGI:cwg]
+synonym: "reduced mandible length" EXACT []
+synonym: "truncated mandible" EXACT []
+is_a: MP:0004592 ! small mandible
+is_a: MP:0030384 ! short facial bone
+
+[Term]
+id: MP:0000091
+name: short premaxilla
+def: "length reduction or truncation of the anterior and interior portion of the maxilla" [ISBN:0-683-40008-8, PMID:9949198]
+synonym: "short incisive bone" EXACT []
+synonym: "truncated premaxilla" EXACT []
+is_a: MP:0004870 ! small premaxilla
+is_a: MP:0030384 ! short facial bone
+
+[Term]
+id: MP:0000097
+name: short maxilla
+alt_id: MP:0000093
+def: "reduced length of the upper jaw bone" [ISBN:0-683-40008-8, PMID:9949198]
+synonym: "decreased maxilla length" EXACT []
+synonym: "reduced maxilla length" EXACT []
+synonym: "reduced upper jaw length" EXACT []
+is_a: MP:0004540 ! small maxilla
+is_a: MP:0030384 ! short facial bone
+
+
