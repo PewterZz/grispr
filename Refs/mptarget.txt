@@ -27,4 +27,20 @@ synonym: "reduced upper jaw length" EXACT []
 is_a: MP:0004540 ! small maxilla
 is_a: MP:0030384 ! short facial bone
 
+[Term]
+id: MP:0000085
+name: large anterior fontanelle
+def: "enlarged diamond-shaped membranous interval at the junction of the coronal, sagittal and metopic sutures of the cranium" [ISBN:0-683-40008-8, PMID:9949198]
+synonym: "enlarged anterior fontanelle" EXACT []
+synonym: "enlarged frontal fontanelle" EXACT []
+synonym: "large anterior fontanel" EXACT []
+synonym: "large frontal fontanelle" EXACT []
+is_a: MP:0030363 ! abnormal anterior fontanelle morphology
+is_a: MP:0030388 ! large fontanelles
 
+[Term]
+id: MP:0000021
+name: prominent ears
+def: "protuberant outer ears" [PMID:10769039]
+synonym: "protruding ears" RELATED []
+is_a: MP:0000023 ! abnormal ear position
